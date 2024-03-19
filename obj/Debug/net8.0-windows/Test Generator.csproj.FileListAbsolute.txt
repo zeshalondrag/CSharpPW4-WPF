@@ -1,0 +1,35 @@
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Test Generator.exe
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Test Generator.deps.json
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Test Generator.runtimeconfig.json
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Test Generator.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Test Generator.pdb
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindow.g.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindowEditTestPage.g.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindowRunTestPage.g.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindowTestsNotFoundPage.g.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator_MarkupCompile.cache
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator_MarkupCompile.lref
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\App.baml
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindow.baml
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindowEditTestPage.baml
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindowRunTestPage.baml
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\EditTestWindowTestsNotFoundPage.baml
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.g.resources
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.csproj.CopyComplete
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\refint\Test Generator.dll
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.pdb
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\Test Generator.genruntimeconfig.cache
+C:\Users\yaney\source\repos\Test Generator\Test Generator\obj\Debug\net8.0-windows\ref\Test Generator.dll

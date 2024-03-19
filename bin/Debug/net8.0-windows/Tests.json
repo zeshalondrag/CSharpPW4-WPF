@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Вопрос 1",
+    "Description": "1+1",
+    "FirstAnswer": "2",
+    "SecondAnswer": "3",
+    "ThirdAnswer": "4",
+    "RightAnswer": 0
+  },
+  {
+    "Name": "Вопрос 2",
+    "Description": "2+2",
+    "FirstAnswer": "4",
+    "SecondAnswer": "5",
+    "ThirdAnswer": "6",
+    "RightAnswer": 0
+  },
+  {
+    "Name": "Вопрос 1",
+    "Description": "3+3",
+    "FirstAnswer": "6",
+    "SecondAnswer": "7",
+    "ThirdAnswer": "8",
+    "RightAnswer": 0
+  },
+  {
+    "Name": "",
+    "Description": "",
+    "FirstAnswer": "",
+    "SecondAnswer": "",
+    "ThirdAnswer": "",
+    "RightAnswer": 0
+  }
+]
